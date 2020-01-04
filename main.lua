@@ -1,5 +1,8 @@
 function love.draw()
     love.graphics.setBackgroundColor(5, 5, 5)
+
+    love.window.setTitle("Tic-Tac-Toe")
+
     love.graphics.setColor(0, 0, 0)
 
     oldWidth = love.graphics.getLineWidth()
