@@ -15,3 +15,5 @@ tasks:
 vscode:
   extensions:
     - sumneko.lua@0.15.4:v9ELO/hl++dbpsIqPq/7Mg==
+    - trixnz.vscode-lua@0.12.4:uBDTdyX2wB6WfiegrI9OMA==
+    - pixelbyte-studios.pixelbyte-love2d@0.1.19:3Y1sjxp4oQCufhmVqW1otQ==
